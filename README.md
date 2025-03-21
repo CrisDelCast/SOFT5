@@ -117,3 +117,6 @@ http://<VM_IP>:8787
 ```
 
 🎮 **¡Listo! Ahora puedes jugar Mario Bros en tu máquina virtual desplegada con Ansible.** 🚀
+![alt text](image-2.png)
+![alt text](image-1.png)
+![alt text](image.png)
